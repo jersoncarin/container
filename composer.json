@@ -5,7 +5,7 @@
     "require": {
         "php": "^8.0",
         "psr/container": "1.0",
-        "jersoncarin/extendable"
+        "jersoncarin/extendable": "dev-master"
     },
     "license": "GPL-3.0",
     "authors": [
