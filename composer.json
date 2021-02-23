@@ -1,5 +1,5 @@
 {
-    "name": "jerson/container",
+    "name": "jersoncarin/container",
     "description": "A lightweight DI Container",
     "type": "library",
     "require": {
