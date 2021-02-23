@@ -1,0 +1,28 @@
+{
+    "name": "jerson/container",
+    "description": "A lightweight DI Container",
+    "type": "library",
+    "require": {
+        "php": "^8.0",
+        "psr/container": "1.0"
+    },
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "Jerson Carin",
+            "email": "jersoncarin25@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "provide": {
+        "psr/container-implementation": "1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bulk\\Components\\Container": ""
+        }
+    },
+    "config": {
+        "sort-packages": true
+    }
+}
