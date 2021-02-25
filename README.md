@@ -163,7 +163,7 @@ Container::extend('method_name',function() {
 });
 
 // you can call your method like the normal method
-// Note you can use $this on static call
+// Note you can't use $this on static call
 // also you can pass a optional parameters
 
 // Using static method
